@@ -16,8 +16,8 @@ const analyses = [
   },
   {
     icon: Trophy,
-    title: "NBA & Basquetbol",
-    description: "Pronosticos diarios para la NBA con analisis de rendimiento, lesiones y matchups clave para cada partido.",
+    title: "Basquetbol",
+    description: "Pronosticos diarios para ligas como la NBA, EUROLEAGUE , ACB, con analisis de rendimiento, lesiones y matchups clave para cada partido.",
     sport: "Basquetbol",
     borderColor: "border-neon-red/30",
     glowColor: "shadow-[0_0_15px_#C8102E22]",
@@ -33,16 +33,6 @@ const analyses = [
     glowColor: "shadow-[0_0_15px_#FFD70022]",
     hoverGlow: "hover:shadow-[0_0_25px_#FFD70044]",
     iconColor: "text-neon-yellow",
-  },
-  {
-    icon: Shield,
-    title: "Tenis & MMA",
-    description: "Analisis especializados de torneos ATP, WTA y eventos de MMA con datos de rendimiento y condiciones de juego.",
-    sport: "Tenis / MMA",
-    borderColor: "border-neon-blue/30",
-    glowColor: "shadow-[0_0_15px_#0033A022]",
-    hoverGlow: "hover:shadow-[0_0_25px_#0033A044]",
-    iconColor: "text-neon-blue",
   },
   {
     icon: TrendingUp,
